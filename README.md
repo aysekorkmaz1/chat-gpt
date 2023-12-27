@@ -14,4 +14,5 @@ Node.js
 OpenAI API Entegrasyonu
 
 <h2>Ekran Görüntüsü</h2>
+
 ![](ekran.gif)
